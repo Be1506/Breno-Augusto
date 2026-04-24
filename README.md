@@ -3,13 +3,7 @@
 
 Desenvolvedor back-end em formação, focado em construir soluções sólidas e bem estruturadas.
 
----
 
-## Tecnologias
-
-Aqui vai organizado:
-
----
 
 ## Tecnologias
 
@@ -22,6 +16,6 @@ Aqui vai organizado:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+
 
 > *"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista de heurísticas."* — Robert C. Martin
