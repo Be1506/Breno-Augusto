@@ -7,7 +7,7 @@ Fora do código, gosto de ouvir música e assistir filmes.
 Meu objetivo é me tornar um Desenvolvedor Back-end e construir soluções que façam diferença.
 
 
----
+
 
 ## 🛠️ Tecnologias
 
@@ -23,12 +23,12 @@ Meu objetivo é me tornar um Desenvolvedor Back-end e construir soluções que f
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+
 
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenoo-augusto)
 
----
+
 
 > *"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista de heurísticas."* — Robert C. Martin
